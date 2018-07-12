@@ -14,4 +14,4 @@ Functional programming follows a few core principles:
     The functional programming software development approach breaks a program into small, testable parts. 
     This section covers basic functional programming principles in JavaScript.
 
-> [Refactor Global Variables Out of Functions](./Confirm%20String%20Ending) <br/>
+> [Refactor Global Variables Out of Functions](./Refactor%20Global%20Variables%20Out%20of%20Functions) <br/>
