@@ -15,3 +15,4 @@ Functional programming follows a few core principles:
     This section covers basic functional programming principles in JavaScript.
 
 > [Refactor Global Variables Out of Functions](./Refactor%20Global%20Variables%20Out%20of%20Functions) <br/>
+> [Use the map Method to Extract Data from an Array](./Use%20the%20map%20Method%20to%20Extract%20Data%20from%20an%20Array) <br/>
