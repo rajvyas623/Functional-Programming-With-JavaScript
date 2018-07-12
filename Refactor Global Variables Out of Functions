@@ -17,7 +17,8 @@ Both functions should return an array with out affecting the global array (bookL
 -> newBookList should equal ["The Hound of the Baskervilles", "On The Electrodynamics of Moving Bodies", 
                           "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae", "A Brief History of Time"].
 
--> newerBookList should equal ["The Hound of the Baskervilles", "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae"].
+-> newerBookList should equal ["The Hound of the Baskervilles", "Philosophiæ Naturalis Principia Mathematica",
+                                                                                  "Disquisitiones Arithmeticae"].
 
 -> newestBookList should equal ["The Hound of the Baskervilles", "Philosophiæ Naturalis Principia Mathematica",
                                                     "Disquisitiones Arithmeticae", "A Brief History of Time"].
@@ -25,7 +26,8 @@ Both functions should return an array with out affecting the global array (bookL
 
 *************************************************************************************************************************************
 // the global variable
-var bookList = ["The Hound of the Baskervilles", "On The Electrodynamics of Moving Bodies", "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae"];
+var bookList = ["The Hound of the Baskervilles", "On The Electrodynamics of Moving Bodies", 
+                  "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae"];
 
 /* This function should add a book to the list and return the list */
 // New parameters should come before the bookName one
