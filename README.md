@@ -17,3 +17,4 @@ Functional programming follows a few core principles:
 > [Refactor Global Variables Out of Functions](./Refactor%20Global%20Variables%20Out%20of%20Functions) <br/>
 > [Use the map Method to Extract Data from an Array](./Use%20the%20map%20Method%20to%20Extract%20Data%20from%20an%20Array) <br/>
 > [Use the reduce Method to Extract Data from an Array](./Use%20the%20reduce%20Method%20to%20Analyze%20Data) <br/>
+> [Missing letters](./Missing%20letters)
